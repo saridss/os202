@@ -1,10 +1,10 @@
 # Bello, hooman!
 ---
----
+
 **more about:**
-[My Log](TXT/mylog.txt)
-[WEB](https://saridss.github.io/os202/)
-[GitHub](https://github.com/saridss/os202/)
+[My Log](TXT/mylog.txt) &nbsp;
+[WEB](https://saridss.github.io/os202/) &nbsp;
+[GitHub](https://github.com/saridss/os202/) &nbsp;
 
 <br>
 
@@ -20,3 +20,6 @@
 * [Week 08](W08/)
 * [Week 09](W09/)
 * [Week 10](W10/)
+
+--
+Capnsky
