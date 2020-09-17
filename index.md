@@ -22,4 +22,5 @@
 * [Week 10](W10/)
 
 --
+<img src="emong.jpeg" width="256">
 Capnsky
