@@ -1,5 +1,5 @@
 # Bello, hooman!
----
+===
 
 **Check My :** &nbsp;
 [My Log](TXT/mylog.txt) &nbsp;
@@ -20,6 +20,8 @@
 * [Week 08](W08/)
 * [Week 09](W09/)
 * [Week 10](W10/)
+
+<br>
 
 #### These are my kittens!
 <img src="emong.jpeg" width="256">
