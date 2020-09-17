@@ -1,7 +1,7 @@
 # Bello, hooman!
 ---
 
-**more about:**
+**Check My :** &nbsp;
 [My Log](TXT/mylog.txt) &nbsp;
 [WEB](https://saridss.github.io/os202/) &nbsp;
 [GitHub](https://github.com/saridss/os202/) &nbsp;
