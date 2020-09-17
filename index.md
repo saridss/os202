@@ -21,6 +21,5 @@
 * [Week 09](W09/)
 * [Week 10](W10/)
 
---
+#### These are my kittens!
 <img src="emong.jpeg" width="256">
-Capnsky
