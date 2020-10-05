@@ -1,5 +1,5 @@
 #!/bin/bash
-#ok
+#okfornow
 
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
