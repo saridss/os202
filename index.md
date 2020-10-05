@@ -4,6 +4,11 @@
 [My Log](TXT/mylog.txt) &nbsp;
 [WEB](https://saridss.github.io/os202/) &nbsp;
 [GitHub](https://github.com/saridss/os202/) &nbsp;
+[My Public Key](TXT/mypubkey.txt) &nbsp;
+[My Script](TXT/myscript.sh) &nbsp;
+[My Top Ten Rank List](TXT/myrank.txt) &nbsp;
+[SHA256SUM](TXT/SHA256SUM) &nbsp;
+[SHA256SUM.asc](TXT/SHA256SUM.asc) &nbsp;
 
 <br>
 
