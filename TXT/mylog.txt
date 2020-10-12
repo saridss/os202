@@ -34,3 +34,16 @@ ZCZC W02 25  L06 Reading PPT and references
 ZCZC W02 65  L14 Assignment #4
 ZCZC W02 70  L99 Other (Watch Netflix)
 ZCZC W02 25  L18 Assignment #8
+ZCZC W03 120 L02 ZOOM related
+ZCZC W03 80  L06 Reading PPT and References
+ZCZC W03 100 L11 Assignment #1
+ZCZC W03 25  L05 GSGS Related
+ZCZC W03 120 L26 Movies : Who Am I
+ZCZC W03 35  L14 Assignment #4
+ZCZC W03 100 L21 VirtualBox : Try Ubuntu
+ZCZC W03 90  L25 C-Language : Recall simple code with codeblock
+ZCZC W03 45  L15 Assignment #5
+ZCZC W03 10  L03 GitHub related
+ZCZC W03 250 L12 Assignment #2
+ZCZC W03 30  L13 Assignment #3
+ZCZC W03 15  L16 Assignment #6 
