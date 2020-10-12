@@ -6,6 +6,9 @@ ZCZC W00 saddamanpc
 ZCZC W01 siepenmaru
 ZCZC W01 rioafirando
 ZCZC W01 qiwqiw
-ZCZC W02 
-ZCZC W02
-ZCZC W02
+ZCZC W02 rioafirando 
+ZCZC W02 vianra
+ZCZC W02 taufiklagi
+ZCZC W03
+ZCZC W03
+ZCZC W03
