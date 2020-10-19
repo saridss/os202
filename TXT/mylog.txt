@@ -50,13 +50,17 @@ ZCZC W03 15  L16 Assignment #6
 ZCZC W03 10  L17 Assignment #7
 ZCZC W03 5   L19 Assignment #9
 ZCZC W03 5   L20 Assignment #10
-ZCZC W03 15  L18 Assignment *8
+ZCZC W03 15  L18 Assignment #8
 ZCZC W03 3   L03 GitHub related
 ZCZC W04 120 L02 ZOOM Related
 ZCZC W04 45  L05 GSGS Related
+ZCZC W04 15  L12 Assignment #2
 ZCZC W04 35  L14 Assignment #4
 ZCZC W04 5   L15 Assignment #5
 ZCZC W04 10  L13 Assignment #3
-ZCZC W04
-ZCZC W04
-ZCZC W04
+ZCZC W04 75  L11 Assignment #1
+ZCZC W04 20  L06 Reading PPT and References
+ZCZC W04 30  L16 Assignment #6
+ZCZC W04 10  L18 Assignment #8
+ZCZC W04 35  L17 Assignment #7
+ZCZC W04 12  L19 Assignment #9
