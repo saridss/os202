@@ -65,7 +65,11 @@ ZCZC W04 10  L18 Assignment #8
 ZCZC W04 35  L17 Assignment #7
 ZCZC W04 12  L19 Assignment #9
 ZCZC W05 120 L02 Zoom Related
-ZCZC W05
-ZCZC W05
-ZCZC W05
-ZCZC W05
+ZCZC W05 15  L11 Assignment #1
+ZCZC W05 25  L06 Reading PPT and References
+ZCZC W05 35  L12 Assignment #2
+ZCZC W05 15  L15 Assignment #5
+ZCZC W05 45  L16 Assignment #6
+ZCZC W05 55  L14 Assignment #4
+ZCZC W05 30  L17 Assignment #7
+ZCZC W05 55  L05 GSGS Related
