@@ -74,3 +74,11 @@ ZCZC W05 55  L14 Assignment #4
 ZCZC W05 30  L17 Assignment #7
 ZCZC W05 55  L05 GSGS Related
 ZCZC W06 120 L02 ZOOM Related
+ZCZC W06 10  L03 GitHub related
+ZCZC W06 75  L05 GSGS related
+ZCZC W06 30  L11 Assignment #1
+ZCZC W06 45  L14 Assignment #4
+ZCZC W06 10  L13 Assignment #3
+ZCZC W06 6   L12 Assignment #2
+ZCZC W06 12  L15 Assignment #5
+ZCZC W06 
