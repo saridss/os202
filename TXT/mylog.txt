@@ -95,4 +95,5 @@ ZCZC W07 60  L15 Assignment #5
 ZCZC W07 5   L13 Assignment #3
 ZCZC W07 7   L14 Assignment #4
 ZCZC W07 8   L03 GitHub Related
+ZCZC W07 12  L16 Assignment #6
 
