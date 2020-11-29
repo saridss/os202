@@ -100,3 +100,14 @@ ZCZC W07 10  L20 Assignment #11 and #12
 ZCZC W07 5   L18 Assignment #8
 ZCZC W07 5   L19 Assignment #9
 ZCZC W07 5   L20 Assignment #10
+ZCZC W08 100 L02 ZOOM related
+ZCZC W08 25  L06 Reading Refereces/Books/Documents
+ZCZC W08 10  L12 Assignment #2
+ZCZC W08 35  L11 Assignment #1
+ZCZC W08 25  L15 Assignment #5
+ZCZC W08 6   L14 Assignment #4
+ZCZC W08 4   L16 Assignment #6
+ZCZC W08 25  L27 Pets: feeding, playing, etc
+ZCZC W08 15  L17 Assignment #7
+ZCZC W08 12  L18 Assignment #8
+
