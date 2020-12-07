@@ -25,7 +25,7 @@ ZCZC W06 nmhlog
 ZCZC W07 rabialco
 ZCZC W07 siepenmaru
 ZCZC W07 setyoaprasetyo
-ZCZC W08
-ZCZC W08
-ZCZC W08
+ZCZC W08 taufiklagi
+ZCZC W08 vianra
+ZCZC W08 rabialco
 ZCZC W09
